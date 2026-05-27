@@ -1,40 +1,37 @@
 # 🤖 Gabriel Nicolas
 
-```python
-class GabrielNicolas:
-    def __init__(self):
-        self.role = "AI Engineer in Progress"
-        self.current_job = "Analista de Desenvolvimento I"
-        self.focus = [
-            "Inteligência Artificial",
-            "Python",
-            "LLMs",
-            "RAG",
-            "Agentes de IA",
-            "Machine Learning"
-        ]
-
-    def currently_learning(self):
-        return [
-            "LangChain",
-            "PyTorch",
-            "Transformers",
-            "MLOps",
-            "Deep Learning"
-        ]
-```
-
 ## 🚀 Sobre mim
 
-Desenvolvedor de Software focado em evolução na área de Inteligência Artificial.
+Olá! Me chamo Gabriel Nicolas e sou Desenvolvedor de Software com foco em Inteligência Artificial.
 
-Atualmente estudo Engenharia de IA com foco em:
-- 🤖 Construção de agentes inteligentes
-- 🧠 LLMs e aplicações com IA
-- 🔎 RAG
-- 🐍 Python para automações
-- 📚 Machine Learning & Deep Learning
-- ⚡ APIs de IA e integrações
+Atualmente atuo como Analista de Desenvolvimento I na Cadmus e venho aprofundando meus conhecimentos em Python, Engenharia de IA, Machine Learning, LLMs, RAG e automações inteligentes.
+
+Minha trajetória começou no desenvolvimento web, criando projetos com JavaScript, React e APIs, e hoje estou direcionando minha carreira para a construção de soluções utilizando Inteligência Artificial.
+
+---
+
+## 🎓 Formação & Cursos
+
+### 🎓 Formação Acadêmica
+- Análise e Desenvolvimento de Sistemas — Estácio
+  - Início: Abril/2024
+  - Previsão de conclusão: Outubro/2026
+
+### 📚 Cursos & Especializações
+- Desenvolvimento Full Stack — DevQuest (Dev em Dobro)
+- Engenharia de IA — Alura
+- Inglês — Fluency Academy
+- Curso.dev
+
+---
+
+## 🎯 Objetivo
+
+Meu objetivo é me tornar Engenheiro de IA e atuar no desenvolvimento de soluções inteligentes, agentes autônomos e aplicações com Inteligência Artificial.
+
+Busco evoluir constantemente minhas habilidades em Python, Machine Learning, Deep Learning e arquitetura de aplicações de IA para construir projetos cada vez mais robustos e impactantes.
+
+Também tenho interesse em contribuir com equipes de tecnologia através de soluções práticas, aprendizado contínuo e desenvolvimento de software de alta qualidade.
 
 ---
 
@@ -91,3 +88,4 @@ Aplicação consumindo API do GitHub para busca de usuários, repositórios e ev
 ![Snake animation](https://github.com/GabrielNicolasR/GabrielNicolasR/blob/output/github-contribution-grid-snake.svg)
 
 > "Transformando aprendizado em projetos reais com Inteligência Artificial."
+
