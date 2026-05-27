@@ -18,10 +18,18 @@ Minha trajetória começou no desenvolvimento web, criando projetos com JavaScri
   - Previsão de conclusão: Outubro/2026
 
 ### 📚 Cursos & Especializações
-- Desenvolvimento Full Stack — DevQuest (Dev em Dobro)
 - Engenharia de IA — Alura
-- Curso.dev - Filipe Deschamps
+  - Python para IA
+  - LLMs e Agentes Inteligentes
+  - LangChain & LangGraph
+  - Arquiteturas RAG
+  - Machine Learning & Deep Learning
+  - Transformers & PyTorch
+  - MLOps e AIOps
 
+- Desenvolvimento Full Stack — DevQuest (Dev em Dobro)
+- Inglês — Fluency Academy
+- Curso.dev
 ---
 
 ## 🎯 Objetivo
