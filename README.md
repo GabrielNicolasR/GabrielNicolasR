@@ -51,19 +51,6 @@ Também tenho interesse em contribuir com equipes de tecnologia através de solu
 
 ---
 
-## 🤖 Projetos
-
-### 🧠 Automações com IA
-Projetos utilizando Python e APIs de IA para geração automática de conteúdo e respostas.
-
-### 📄 Sistema de Perguntas e Respostas com IA
-Leitura de perguntas via arquivos e geração automática de respostas utilizando LLMs.
-
-### 🔍 GitHub User Search
-Aplicação consumindo API do GitHub para busca de usuários, repositórios e eventos.
-
----
-
 ## 📈 GitHub Stats
 
 <div>
