@@ -20,8 +20,7 @@ Minha trajetória começou no desenvolvimento web, criando projetos com JavaScri
 ### 📚 Cursos & Especializações
 - Desenvolvimento Full Stack — DevQuest (Dev em Dobro)
 - Engenharia de IA — Alura
-- Inglês — Fluency Academy
-- Curso.dev
+- Curso.dev - Filipe Deschamps
 
 ---
 
