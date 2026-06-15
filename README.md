@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mim
 
-Olá! Me chamo Gabriel Nicolas e sou Desenvolvedor de Software com foco em Inteligência Artificial.
+Olá! Me chamo Gabriel Nicolas e sou Desenvolvedor de Software em transição para Engenharia de IA.
 
 Atualmente atuo como Analista de Desenvolvimento I na Cadmus e venho aprofundando meus conhecimentos em Python, Engenharia de IA, Machine Learning, LLMs, RAG e automações inteligentes.
 
@@ -13,32 +13,58 @@ Minha trajetória começou no desenvolvimento web, criando projetos com JavaScri
 ## 🎓 Formação & Cursos
 
 ### 🎓 Formação Acadêmica
-- Análise e Desenvolvimento de Sistemas — Estácio
-  - Início: Abril/2024
-  - Previsão de conclusão: Outubro/2026
+### Análise e Desenvolvimento de Sistemas
+**Estácio**
+- Início: Abril/2024
+- Conclusão prevista: Outubro/2026
 
-### 📚 Cursos & Especializações
-- Engenharia de IA — Alura
-  - Python para IA
-  - LLMs e Agentes Inteligentes
-  - LangChain & LangGraph
-  - Arquiteturas RAG
-  - Machine Learning & Deep Learning
-  - Transformers & PyTorch
-  - MLOps e AIOps
+### Engenharia de IA
+**Alura**
 
-- Desenvolvimento Full Stack — DevQuest (Dev em Dobro)
-- Inglês — Fluency Academy
-- Curso.dev
----
+Trilha focada em:
+
+- Python para IA
+- IA Generativa
+- LLMs
+- LangChain
+- LangGraph
+- Arquiteturas RAG
+- Agentes Inteligentes
+- Machine Learning
+- Deep Learning
+- MLOps
+
+### Curso.dev
+**Filipe Deschamps**
+
+Estudos complementares em:
+
+- Engenharia de Software
+- Arquitetura de Sistemas
+- Desenvolvimento Backend
+- Boas práticas de programação
+- Fundamentos de computação
+
+### Inglês
+**Fluency Academy**
+
+### 🚧 Atualmente estudando
+
+- Python
+- IA Generativa
+- LangChain
+- LangGraph
+- Arquiteturas RAG
+- Agentes Inteligentes
+- Engenharia de Prompt
+- Integração com APIs de LLMs
+- MCP (Model Context Protocol)
 
 ## 🎯 Objetivo
 
-Meu objetivo é me tornar Engenheiro de IA e atuar no desenvolvimento de soluções inteligentes, agentes autônomos e aplicações com Inteligência Artificial.
+Evoluir para a área de Engenharia de IA, participando da construção de aplicações inteligentes, agentes autônomos e sistemas baseados em modelos de linguagem.
 
-Busco evoluir constantemente minhas habilidades em Python, Machine Learning, Deep Learning e arquitetura de aplicações de IA para construir projetos cada vez mais robustos e impactantes.
-
-Também tenho interesse em contribuir com equipes de tecnologia através de soluções práticas, aprendizado contínuo e desenvolvimento de software de alta qualidade.
+Busco desenvolver experiência prática através de projetos, estudos e aplicações reais utilizando Python, IA Generativa e tecnologias modernas do ecossistema de IA.
 
 ---
 
@@ -48,7 +74,6 @@ Também tenho interesse em contribuir com equipes de tecnologia através de solu
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### Desenvolvimento
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
